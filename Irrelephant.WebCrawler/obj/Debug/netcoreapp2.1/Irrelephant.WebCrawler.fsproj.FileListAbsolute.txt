@@ -1,0 +1,10 @@
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\bin\Debug\netcoreapp2.1\Irrelephant.WebCrawler.deps.json
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\bin\Debug\netcoreapp2.1\Irrelephant.WebCrawler.runtimeconfig.json
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\bin\Debug\netcoreapp2.1\Irrelephant.WebCrawler.runtimeconfig.dev.json
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\bin\Debug\netcoreapp2.1\Irrelephant.WebCrawler.dll
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\bin\Debug\netcoreapp2.1\Irrelephant.WebCrawler.pdb
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.fsprojAssemblyReference.cache
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.AssemblyInfoInputs.cache
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.AssemblyInfo.fs
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.dll
+C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.pdb
