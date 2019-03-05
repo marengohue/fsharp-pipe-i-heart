@@ -1,2 +1,0 @@
-C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.AssemblyInfoInputs.cache
-C:\Users\e.rebedaylo\Documents\Visual Studio 2017\Projects\Irrelephant.WebCrawler\Irrelephant.WebCrawler\obj\Debug\netcoreapp2.1\Irrelephant.WebCrawler.AssemblyInfo.fs
