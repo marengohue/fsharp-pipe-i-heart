@@ -1,4 +1,7 @@
 ﻿open Crawler
+open Webpage
+open Logger
+open Link
 
 let logFn = Logger (printfn "[GET] %s: %s")
 
@@ -15,7 +18,6 @@ let doCrawl startUrl =
             0
         | _ ->
             failwith "Unable to build crawler out of input start uri."
-
 
 [<EntryPoint>]
 let main argv =

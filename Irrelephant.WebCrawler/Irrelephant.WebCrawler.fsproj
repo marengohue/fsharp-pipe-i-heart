@@ -6,9 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Crawler.fs" />
-    <Compile Include="Http.fs" />
+    <Compile Include="Crawler\Link.fs" />
+    <Compile Include="Crawler\Webpage.fs" />
+    <Compile Include="Crawler\Logger.fs" />
+    <Compile Include="Crawler\Crawler.fs" />
     <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FSharp.Data" Version="3.0.0" />
   </ItemGroup>
 
 </Project>
