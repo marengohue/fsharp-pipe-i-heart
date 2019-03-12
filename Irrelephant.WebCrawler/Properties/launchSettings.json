@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Irrelephant.WebCrawler": {
-      "commandName": "Project",
-      "commandLineArgs": "https://catalog.onliner.by"
-    }
-  }
-}

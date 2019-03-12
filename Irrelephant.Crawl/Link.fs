@@ -1,4 +1,6 @@
-﻿module Link
+﻿namespace Crawl
+
+module Link =
     open System
 
     type Link = Link of Uri

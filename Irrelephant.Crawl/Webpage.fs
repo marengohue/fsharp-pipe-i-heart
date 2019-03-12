@@ -1,4 +1,6 @@
-﻿module Webpage
+﻿namespace Crawl
+
+module Webpage = 
     open Link
 
     type Webpage =

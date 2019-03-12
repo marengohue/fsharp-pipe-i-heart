@@ -1,8 +1,11 @@
-﻿module Crawler
+﻿namespace Crawl
+
+module Crawler =
+
+    open FSharp.Data
+    open Link
     open Webpage
     open Logger
-    open Link
-    open FSharp.Data
 
     type Crawler = {
         pages: Webpage list
